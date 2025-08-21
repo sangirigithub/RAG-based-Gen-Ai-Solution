@@ -3,3 +3,4 @@ venv/
 __pycache__/
 *.pyc
 *.sqlite3
+train_SQuAD_full
