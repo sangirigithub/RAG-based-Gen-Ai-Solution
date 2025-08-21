@@ -34,6 +34,7 @@ streamlit run QnA_RAG.py
 Use the sidebar to select LLM, input your API key, choose top-k retrieval docs, and type your question.
 
 Create API key and access available Open-source Models by visiting:
+
 GroqCloud API Keys Console: https://console.groq.com/keys
 Ollama Model Library: https://ollama.com/library
 HuggingFace Models: https://huggingface.co/settings/tokens
